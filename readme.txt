@@ -1,14 +1,14 @@
 === JTC Slides ===
 Contributors: Jason T. Campbell
-Tags: slide show, slides, slide show with navigation, responsive slide show
+Tags: slideshow, slide show, slides, slideshow with navigation, responsive slideshow, responsive slide show, image rotator
 Donate link: http://jtc-art.com/code-blog
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple responsive slide show with left navigation boxes. It is light weight and highly customizable.
+A simple responsive slideshow with left navigation boxes. It is light weight and highly customizable.
 
 == Description ==
-I have seen this style of slide show on many sites but haven\\\'t found a plug in that does it so I made my own. It features a left navigation of title boxes that take up the height of the slide show and a portion of the width (set by you). This slide show is responsive, mobile friendly. It is also very light weight. The javascript file only loads on pages that have the short code. It is highly customizable. You can set colors, widths, heights etc. You can even add your own custom CSS to style the slide show. It also includes an auto play feature. Demo: http://jtc-art.com/code-blog/jtc-slide-show-demo-1/
+I have seen this style of slideshow on many sites but haven\'t found a plug in that does it so I made my own. It features a left navigation of title boxes that take up the height of the slideshow and a portion of the width (set by you). This slideshow is responsive, mobile friendly. It is also very light weight. The javascript file only loads on pages that have the short code. It is highly customizable. You can set colors, widths, heights etc. You can even add your own custom CSS to style the slide show. It also includes an auto play feature. Demo: http://jtc-art.com/code-blog/jtc-slide-show-demo-1/   Documentation: http://jtc-art.com/code-blog/jtc-slide-show-info/
 
 Features:
 1. Left box style navigation
