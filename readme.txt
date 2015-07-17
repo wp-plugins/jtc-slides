@@ -31,6 +31,7 @@ Please, let me know if you have any questions
 1. Front End
 2. Back End Slide Edit Page
 3. Back End Slide Show Edit Page
+4. Mobile Version
 
 == Changelog ==
 = 1.0 =
